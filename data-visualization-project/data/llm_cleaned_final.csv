@@ -1,0 +1,246 @@
+Unnamed: 0,city,store_id,sale_number,sale_amount,associate,Date,time
+0,Alexandrabury,18,1043,15,Stacey Daniels,2017-09-15,06:17:10
+1,East Jesusport,2,1729,396,Haley Pitts,2017-09-11,16:16:30
+2,New Douglasmouth,13,2028,78,Carlos French,2017-07-12,15:00:18
+3,West Carriemouth,19,1245,1149,Jeffrey Ford,2017-07-29,13:04:55
+4,Port Timothy,1,2365,724,Christopher West,2017-11-07,21:35:58
+5,Katharinenstadt,18,2764,119,Jennifer Lee,2017-05-24,18:44:03
+6,Lake Richard,4,2574,1387,Kayla Mercado,2017-08-07,21:07:08
+7,Port Mackenziemouth,5,2155,1599,unknown,2017-09-26,03:22:02
+8,North Linda,6,893,16,Johnny Turner,2017-10-18,07:28:37
+9,New Timothy,17,2986,1487,Tony Lynch,2017-02-14,03:12:13
+10,North Kyle,5,2944,537,Ashley Taylor,2017-04-08,22:27:45
+11,North Georgemouth,1,1180,0,George Andrade,2017-08-05,07:06:20
+12,Port Coryborough,3,1455,958,Laurie Carr DVM,2017-06-17,09:52:00
+13,New Katherineville,8,1654,89,Patricia Peterson,2017-01-20,04:07:32
+14,Tinafort,10,1324,0,George Collins,2017-12-05,12:42:27
+15,Lauraborough,6,0,0,unknown,2017-06-11,01:49:43
+16,Janiceview,1,820,443,Linda Snyder,2017-05-01,00:36:34
+17,Beniteztown,3,1186,627,Mary Luna,2017-02-09,20:11:03
+18,Port Bob,18,0,926,James Turner,2017-07-17,04:01:26
+19,Nelsonfort,7,1781,146,unknown,2017-12-29,18:47:30
+20,Davidstad,13,0,976,Christopher Ortiz,2017-07-23,03:03:11
+21,West Kenneth,2,2063,1096,unknown,2017-07-16,01:01:02
+22,New Emma,13,0,56,Christopher Castillo,2017-11-10,04:36:04
+23,Riceport,9,0,53,unknown,2017-02-18,16:14:19
+24,Nelsonfort,7,1781,146,Jennifer Mcdonald,2017-12-29,18:47:30
+25,Jamesburgh,4,2102,358,James Thompson,2017-10-15,21:27:21
+26,West Michaelbury,18,366,167,unknown,2017-12-31,23:48:08
+27,Danielsmouth,10,0,1134,unknown,2017-06-09,22:48:39
+28,Timchester,6,2292,9,Michael Johnson,2017-11-05,14:35:35
+29,West Kimberly,17,1467,0,Christina Randolph,2017-07-06,13:58:38
+30,East Jennifer,15,2623,1124,Ryan Morrow,2017-12-15,17:44:05
+31,Lake Chelseatown,11,2941,321,Don Garza,2017-05-06,10:37:50
+32,Ariasberg,19,444,1299,Alicia Ross,2017-10-09,15:26:33
+33,Sydney,9,0,1529,Brad Ray,2017-03-25,00:24:21
+34,Faulknerstad,15,0,1281,unknown,2017-05-07,11:38:16
+35,West Michael,11,2890,264,Christine Oneal,2017-09-08,05:15:14
+36,South Stevenview,3,2683,265,Mariah Wright,2017-06-29,20:56:50
+37,West Shannon,2,0,477,unknown,2017-01-28,02:08:50
+38,Port Peter,13,1646,349,Dave Evans,2017-08-06,15:06:49
+39,Rebeccaview,12,0,1100,Michael Mcintyre,2017-11-29,20:40:50
+40,New Jason,16,280,309,Ashley Bryant,2017-06-06,05:47:26
+41,Romanside,11,1965,1310,unknown,2017-10-12,04:26:44
+42,West Sean,4,0,1581,Denise Ross,2017-03-18,02:21:43
+43,Karaville,11,1569,391,Christina Khan,2017-10-23,01:29:59
+44,Dianabury,14,2697,20,Nathan White,2017-12-24,00:46:11
+45,North Stanleybury,11,1437,0,Lawrence Norton,2017-01-25,17:08:42
+46,New Jason,16,280,309,Ashley Bryant,2017-06-06,05:47:26
+47,Aliciastad,6,652,164,Rhonda Stone,2017-04-04,12:26:57
+48,Lisaville,1,0,250,unknown,2017-11-12,12:36:31
+49,New Meganland,19,0,145,Michael Harvey,2017-02-16,14:13:28
+50,Fosterburgh,6,809,0,unknown,2017-07-09,22:58:58
+51,Port Matthew,15,725,455,Tracey Martin,2017-04-18,20:30:45
+52,West Petermouth,14,1276,127,Robert Taylor,2017-01-24,15:08:04
+53,New Amy,3,212,857,John Chambers,2017-05-29,03:45:05
+54,Beardshire,18,1243,1027,Amanda Haynes,2017-09-25,01:21:17
+55,South Colinport,8,0,229,Taylor Martin MD,2017-02-01,15:09:03
+56,West Natasha,3,278,154,Charles Fletcher,2017-02-08,12:10:55
+57,Port Shannon,12,2351,648,Dawn Schmidt,2017-06-25,05:55:05
+58,Loughborough,6,0,1201,Calvin Soto,2017-06-11,01:49:43
+59,East Curtis,17,443,112,Elizabeth Barber,2017-04-06,17:27:07
+60,Jonesland,6,1774,1053,Christopher Young,2017-06-04,00:47:04
+61,East Katie,16,1137,259,unknown,2017-02-26,09:17:33
+62,North Spencer,10,0,1068,Johnathan Brown,2017-12-09,03:42:59
+63,Brockfort,8,0,0,Miranda Gibbs,2017-07-04,06:58:00
+64,Katherinefurt,14,0,0,Jason Robinson,2017-02-24,06:16:52
+65,Robinsonshire,8,55,738,James Garcia,2017-12-03,06:41:47
+66,East Joseph,1,0,156,unknown,2017-05-31,11:45:39
+67,Jonesland,6,1774,0,Christopher Young,2017-06-04,00:47:04
+68,South Jessemouth,12,1841,1446,unknown,2017-11-19,12:38:24
+69,Katrinafurt,5,0,543,unknown,2017-04-13,12:29:25
+70,Jacquelineburgh,19,59,1380,Brandi Simmons,2017-10-26,20:31:47
+71,Sarahland,8,2126,0,David Wallace,2017-08-19,10:10:45
+72,Lake Brandon,11,406,880,Stacy Mcintosh,2017-04-07,20:27:28
+73,Guerrachester,15,2124,167,Nicole Gonzalez,2017-12-11,07:43:28
+74,East Michelleville,7,1572,262,Eugene Summers,2017-06-19,12:52:05
+75,South Lindamouth,19,1756,0,Andre Villa,2017-04-21,08:32:37
+76,South Ashleyton,3,2323,4,Robert Landry,2017-03-16,19:20:45
+77,Seanview,8,962,243,Jamie Cummings,2017-05-17,22:42:11
+78,Tammyport,12,0,819,Carrie Levine,2017-09-19,20:18:51
+79,West Robertmouth,15,1799,262,Pamela Salinas,2017-03-21,15:22:56
+80,Batesshire,6,914,467,Donald Smith,2017-10-14,13:27:17
+81,Markmouth,1,2511,1504,Laura Henderson,2017-08-13,17:09:07
+82,New Lisachester,13,0,991,Michelle Murray,2017-04-14,13:29:37
+83,Port Peter,13,1646,349,Dave Evans,2017-08-06,15:06:49
+84,Franklinstad,5,1080,0,unknown,2017-09-22,13:20:01
+85,Kathrynmouth,6,0,1024,unknown,2017-08-21,14:10:54
+86,Port Amanda,1,421,1330,Christopher Joyce,2017-02-05,01:09:53
+87,South Melissaside,10,1770,1204,unknown,2017-08-29,06:12:22
+88,South Ryan,18,1835,1278,Robert Santos,2017-12-21,13:45:36
+89,Davidstad,13,2689,976,Christopher Ortiz,2017-07-23,03:03:11
+90,Port Matthew,4,170,47,Adam Brandt,2017-05-10,22:39:00
+91,Smithfurt,8,2072,238,Mr. Micheal Hale DDS,2017-03-26,05:24:30
+92,Lake Ashleytown,1,2532,1539,James Greer,2017-12-27,12:47:26
+93,Albertfurt,18,534,388,unknown,2017-11-17,05:37:25
+94,East Randymouth,3,2320,304,unknown,2017-01-13,12:04:49
+95,Nicholschester,6,2876,47,unknown,2017-09-16,09:17:53
+96,Lake Edwardmouth,14,2565,0,Keith Jones,2017-06-28,19:56:30
+97,Kathrynburgh,10,1344,0,Adam Fisher,2017-08-24,21:11:39
+98,Port Briana,8,1219,799,Christian Perez,2017-04-03,07:26:28
+99,North Johnview,1,1247,0,Alyssa Buck,2017-09-06,02:14:32
+100,Hardingburgh,1,939,981,unknown,2017-06-22,21:54:27
+101,Chaveztown,18,161,1551,Eric Hunter,2017-04-23,17:32:50
+102,West Kenneth,2,0,1096,Herbert Morris,2017-07-16,01:01:02
+103,Lindaville,2,1178,971,Monique Hughes,2017-06-07,06:47:48
+104,West Georgeshire,6,1862,1021,Heidi Lutz,2017-09-12,23:17:05
+105,West Billyfort,5,2508,0,Peter Duffy,2017-09-23,20:20:53
+106,West Meghanburgh,7,0,368,unknown,2017-11-25,07:39:28
+107,East Jesusport,2,1729,396,Haley Pitts,2017-09-11,16:16:30
+108,South Paulabury,2,2963,1028,David Ayers,2017-04-20,03:31:41
+109,Williamsburg,6,1530,1167,Gary Lee,2017-01-03,05:00:45
+110,South James,18,2362,0,Jonathan Clark,2017-07-08,14:58:53
+111,Denisemouth,16,16,535,James Pugh,2017-10-07,05:25:11
+112,New Phillipton,14,2514,68,unknown,2017-05-15,15:40:17
+113,Longhaven,8,2368,1527,unknown,2017-09-28,07:22:10
+114,Port Briana,8,0,799,Christian Perez,2017-04-03,07:26:28
+115,New Amy,3,0,0,unknown,2017-05-29,03:45:05
+116,Lake Joanne,3,629,1407,Tracy Diaz,2017-12-14,13:44:01
+117,Frankfurt,12,1370,676,Michael Clark,2017-03-03,02:17:55
+118,Port Ryan,17,0,615,Cory Wilkerson,2017-06-08,15:48:35
+119,Moraport,3,1827,358,Belinda Vasquez,2017-10-08,08:25:52
+120,Leachville,4,590,662,Amanda Tate,2017-12-07,19:42:52
+121,Brownmouth,12,700,1155,Andrea Crawford,2017-10-03,18:23:46
+122,Lake Ginaland,7,2695,547,Bradley Carrillo,2017-10-05,01:24:37
+123,West Meghanburgh,7,1740,368,unknown,2017-11-25,07:39:28
+124,Salasshire,13,1832,755,Shelly Todd,2017-08-26,03:11:48
+125,Brettland,14,0,0,Amy Lane,2017-09-17,18:18:18
+126,East Rebecca,17,1788,0,unknown,2017-06-15,07:51:08
+127,Griffithville,12,214,753,Thomas Fuller,2017-11-04,08:34:47
+128,North Jason,15,2850,284,unknown,2017-03-30,16:25:18
+129,Johnchester,1,0,1475,Nicole Carpenter,2017-11-20,21:38:54
+130,Jacquelineburgh,19,59,1380,Brandi Simmons,2017-10-26,20:31:47
+131,Robertstown,3,198,0,unknown,2017-02-21,22:15:38
+132,East Johntown,10,2540,534,Nathan Santana,2017-03-07,11:18:42
+133,Michaelafort,17,2561,0,Mark Soto,2017-10-24,08:30:55
+134,Kathleenbury,19,884,1439,Carl Mills,2017-03-12,03:19:30
+135,Danielhaven,11,1348,0,Derek Mcgee,2017-10-02,10:23:36
+136,Chelseashire,6,78,796,Jeffery Hughes,2017-05-09,17:38:53
+137,Jonesstad,6,1966,553,Andrew Warren,2017-07-25,06:04:29
+138,New Meganland,19,2767,0,Michael Harvey,2017-02-16,14:13:28
+139,Caldwellbury,14,771,108,Michaela Stewart,2017-01-07,20:02:19
+140,South Donaldchester,19,2305,0,Chelsea Brown,2017-08-12,09:08:14
+141,Port Brandyside,2,2627,433,Deborah Reed DDS,2017-12-04,09:41:58
+142,Sarahton,5,1500,774,Kimberly Price,2017-07-11,07:59:22
+143,Millerview,19,1576,722,unknown,2017-11-27,11:40:07
+144,Olsenville,18,0,729,Nicole Anderson,2017-01-16,20:06:09
+145,Caseyside,10,0,372,Alicia Valenzuela,2017-02-15,12:12:25
+146,New Natashastad,12,1625,0,James Gordon,2017-10-17,06:28:08
+147,Randyborough,7,248,1417,Eric Montgomery,2017-03-19,06:22:33
+148,Lisamouth,15,1748,1266,Rebecca Baxter,2017-12-13,11:43:31
+149,North Thomasshire,16,1491,33,Elizabeth Bishop,2017-05-16,16:41:11
+150,North Thomasshire,16,0,33,Elizabeth Bishop,2017-05-16,16:41:11
+151,East Johntown,10,2540,534,Nathan Santana,2017-03-07,11:18:42
+152,Port Michael,9,0,0,unknown,2017-08-03,00:05:47
+153,Ariasberg,19,444,0,Alicia Ross,2017-10-09,15:26:33
+154,West Bridgetborough,5,216,1383,Jonathan Townsend,2017-02-19,19:14:56
+155,Hectorton,12,1674,823,Jennifer Page,2017-09-09,09:15:33
+156,New Jamesberg,15,2818,295,Dean Davis,2017-01-14,15:05:42
+157,Kimberley,14,2639,1429,Steven Miller,2017-05-19,06:42:31
+158,Port Pamelafurt,9,1662,397,unknown,2017-04-26,08:34:21
+159,Ortiztown,13,185,1454,Christopher Harris,2017-06-01,18:46:26
+160,Millerview,19,1576,0,unknown,2017-11-27,11:40:07
+161,West Amanda,7,2454,0,Dennis Jones,2017-10-10,19:26:37
+162,South Jessicaview,3,0,992,Summer Nash,2017-04-01,23:26:14
+163,Chaveztown,18,161,0,Eric Hunter,2017-04-23,17:32:50
+164,Erikaland,11,1571,0,Mark Taylor,2017-01-09,01:03:21
+165,West Bridgetborough,5,216,1383,Jonathan Townsend,2017-02-19,19:14:56
+166,Debbieton,4,1781,899,Ronald Wood,2017-12-01,03:40:55
+167,West Debbieberg,11,0,708,Connie Wilson,2017-08-27,05:12:13
+168,Lake Brentfurt,13,1217,0,Kristina Trujillo,2017-09-21,04:19:23
+169,Lake Summerport,2,2798,319,unknown,2017-12-18,01:45:08
+170,North Michael,3,2633,462,Kendra Santiago,2017-07-24,04:03:56
+171,East Deborahland,9,365,1313,Ms. Victoria Ford DDS,2017-02-23,00:16:30
+172,East Curtis,17,443,112,Elizabeth Barber,2017-04-06,17:27:07
+173,New Jonathan,18,1135,1328,Edward Thomas,2017-03-14,11:19:43
+174,South Neilstad,3,2106,177,Melinda Miranda,2017-02-06,08:10:23
+175,Lake Ginaland,7,2695,547,Bradley Carrillo,2017-10-05,01:24:37
+176,West Donaldbury,12,1547,980,Chelsea Lee,2017-08-17,01:09:50
+177,Fosterburgh,6,809,0,Lauren Nicholson,2017-07-09,22:58:58
+178,West Cody,15,1755,888,James Chen,2017-10-20,16:29:23
+179,Williamsburg,6,1530,1167,Gary Lee,2017-01-03,05:00:45
+180,Ibarraberg,1,0,258,Daniel Davis,2017-01-05,10:01:27
+181,Sarachester,2,1908,0,Michael Roth,2017-01-06,12:01:48
+182,New Tashabury,2,668,141,Antonio Jackson,2017-11-14,20:37:17
+183,Kellerside,5,5,528,Thomas Baker,2017-08-30,13:12:50
+184,New Melanie,7,1717,1579,Eric Morrow,2017-04-16,15:29:58
+185,Munozberg,14,1827,0,John Glover,2017-06-26,11:55:51
+186,Bruceton,12,1036,1570,Diane Pearson,2017-07-21,19:02:35
+187,Valeriebury,2,2911,747,Richard Wong,2017-02-02,19:09:06
+188,Angelabury,4,1389,1097,Carl Bailey,2017-02-28,17:17:41
+189,South Jeffreytown,10,254,542,unknown,2017-03-28,12:24:53
+190,East Rebecca,17,1788,512,Gina Frey,2017-06-15,07:51:08
+191,Kellerside,5,5,528,Thomas Baker,2017-08-30,13:12:50
+192,South Margaretstad,3,929,91,Stephen Palmer,2017-08-14,23:09:18
+193,Bournemouth,11,2100,414,Brandon Salinas,2017-06-20,13:52:59
+194,East Zacharychester,1,2205,0,Kelsey Gardner,2017-09-03,19:14:07
+195,Zacharyborough,9,936,964,Marc Barnett,2017-06-27,12:56:26
+196,Port Grace,9,29,457,unknown,2017-01-18,21:06:34
+197,South Jason,17,2387,304,Sarah Sandoval,2017-04-12,07:29:18
+198,Alexanderport,19,0,462,Carlos Vasquez,2017-09-30,08:23:07
+199,South Josephfurt,16,2918,741,unknown,2017-11-02,02:33:30
+200,New Jonathan,18,1135,0,unknown,2017-03-14,11:19:43
+201,West Johnfort,15,1623,107,Michael Trujillo,2017-10-31,01:32:39
+202,South Vincenthaven,1,1020,692,Lori Johnson,2017-06-13,05:50:27
+203,South Nancyview,7,681,310,Lance Hurst,2017-07-13,16:00:25
+204,Timothyside,15,1096,757,unknown,2017-04-25,02:33:29
+205,North Nicholas,11,2117,304,Stacy Williams,2017-11-03,07:33:55
+206,Nguyenton,7,0,147,Katelyn Barber,2017-12-06,16:42:30
+207,Phillipsshire,16,1066,0,Kelsey Collins,2017-01-30,06:09:00
+208,Cohenshire,1,0,1359,Wayne Peterson,2017-03-22,22:23:37
+209,Markmouth,8,1260,938,Kevin Mosley,2017-11-23,00:38:57
+210,Wigginshaven,14,2574,1087,Jeffery Rodriguez,2017-10-28,21:32:25
+211,Port Carrieburgh,16,0,1307,Kyle Robbins,2017-12-19,08:45:21
+212,West Sean,4,2327,1581,Denise Ross,2017-03-18,02:21:43
+213,Harrisport,17,698,1113,Donna Ibarra,2017-07-01,21:57:36
+214,North Justin,2,0,412,Ray Miller,2017-10-25,16:31:29
+215,Lake Richardstad,6,2330,1274,Christopher Randall,2017-05-13,07:39:35
+216,Gonzalesburgh,3,196,1482,Kevin Madden,2017-05-05,08:37:44
+217,East Kirstenbury,11,513,810,Jeremiah Thompson,2017-01-22,10:07:58
+218,Justinside,18,2386,1490,Stephen Shaffer,2017-07-27,12:04:38
+219,Elizabethview,13,1375,16,Joseph Barron,2017-05-26,20:44:23
+220,North Adam,4,457,886,Robert Wilson,2017-03-09,20:19:23
+221,Port Matthewton,4,449,1427,Martin Chang,2017-03-05,08:18:17
+222,Lake Kimberlyport,16,2170,553,Dana Wilson,2017-08-10,02:07:19
+223,Heathershire,7,1941,650,Vanessa Burke,2017-07-31,22:05:23
+224,West Alex,10,1168,111,Barbara Savage,2017-07-19,11:02:03
+225,Jeffreyside,17,81,173,Frank Hoffman,2018-01-02,04:48:48
+226,Port Dariusshire,18,1878,880,Mark Fowler,2017-05-22,17:44:00
+227,North Jeffrey,4,1806,391,James Davis,2017-12-25,06:46:44
+228,Denisemouth,16,16,535,James Pugh,2017-10-07,05:25:11
+229,New Tylermouth,7,1727,203,Kenneth Elliott,2017-04-27,14:34:59
+230,West Vincentmouth,4,887,132,Miguel Hunter,2017-12-22,16:45:54
+231,West Donaldbury,12,1547,980,Chelsea Lee,2017-08-17,01:09:50
+232,Port Monicaville,2,718,400,Courtney Ward,2017-05-03,02:37:14
+233,West Cody,15,1755,888,unknown,2017-10-20,16:29:23
+234,Lake Sandrafurt,15,2557,320,Shawn James,2017-05-20,08:43:00
+235,New Phillipton,14,2514,68,unknown,2017-05-15,15:40:17
+236,Carolhaven,11,0,0,Heather Johnson,2017-06-21,16:54:02
+237,Ponceview,19,1006,399,Douglas Peters,2017-01-11,03:04:11
+238,Ortiztown,13,0,1454,Christopher Harris,2017-06-01,18:46:26
+239,Port Jacobborough,3,652,452,Jodi Watson,2017-08-23,17:11:08
+240,Samanthashire,9,2293,184,Jason Harper,2017-04-10,01:28:14
+241,Stephaniemouth,5,0,130,unknown,2017-02-12,02:11:21
+242,Hughesview,14,280,241,Brenda Mcbride,2017-03-13,08:19:35
+243,North Karenton,7,549,567,Crystal Jennings,2017-09-01,15:13:19
+244,Port Emilyfurt,12,87,1301,Mrs. Nicole Huang,2017-04-29,18:35:32
